@@ -3,7 +3,7 @@
 A comprehensive fitness and workout tracking application built with React Native and Expo. This app helps users discover exercises, calculate BMI, track their fitness journey, and maintain a healthy lifestyle.
 
 ## 📱 Features
-
+![Fitness Pro](https://res.cloudinary.com/ddz3jxlit/image/upload/v1770025453/Fitness_Pro_1_vatnn3.png)
 - **Exercise Database**: Browse exercises by body parts (chest, back, arms, legs, shoulders, etc.)
 - **Exercise Details**: View detailed instructions, target muscles, equipment needed, and animated demonstrations
 - **BMI Calculator**: Calculate and track your Body Mass Index
